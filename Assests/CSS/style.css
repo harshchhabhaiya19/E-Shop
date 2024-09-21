@@ -1,0 +1,14 @@
+a{
+    text-decoration: none;
+}
+.logo1{
+    height: 70px;
+}
+.nav-link{
+    font-size: 18px;
+    font-weight: 600;
+}
+.social{
+    display: inline;
+    padding: 0 10px;
+}
